@@ -1,4 +1,4 @@
-# Step 1 - Identify the Problem
+## Step 1 - Identify the Problem
 
 ### Project Topic
 ML Misdiagnosis in Healthcare Industry

@@ -1,7 +1,7 @@
 # Step 1 - Identify the Problem
 
 ### Project Topic
-ML Misdiagnosis in Healthcare
+ML Misdiagnosis in Healthcare Industry
 
 ### Area of Interest
 Healthcare analytics and machine learning usage in medical diagnosis to understand how predictive models use patitent data to identify risk, the accuracy of the diagnosis, and frequency of misdiagnosis.

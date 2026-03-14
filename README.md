@@ -1,7 +1,7 @@
 # Cardiovascular-Machine-Learning-MSDS-434
 This project cloud-native analytics application project predicts cardiovascular disease using machine learning. 
 
-##Project Steps
+## Project Steps
 - Step 1: Identify the Problem
 - Step 2: Identify the Dataset
 - Step 3: Construct a Functional Specification
@@ -13,7 +13,7 @@ This project cloud-native analytics application project predicts cardiovascular 
 - Step 9: Implement Performance Monitorting Application
 - Step 10: Implement a Production Environment
 
-##Tools
+## Tools
 - GitHub
 - Google Cloud Platform
 - BigQuery

@@ -52,7 +52,7 @@ Create a machine learning model in BigQuery, using the Cardiovascular Disease Da
 
 #### Predict
 
-   ``` SELECT *
+    ```SELECT *
         FROM ML.PREDICT(
         MODEL `instant-audio-484001-m5.cardiovascular_project.cardio_model`,
         (

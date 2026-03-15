@@ -42,3 +42,5 @@ cardio
 FROM `instant-audio-484001-mls.cardiovascular_project.cardiovascular_table`;```
 
 ### Video
+Panopto Recording:
+https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f559ba4e-5acb-475f-8e9d-b40e00bc42da

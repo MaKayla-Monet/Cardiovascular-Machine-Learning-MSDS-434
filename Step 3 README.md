@@ -25,15 +25,15 @@ The patient health indicators from the Cardiovascular Disease dataset dervied fr
 - Cloud Application
 - Prediction Output
 
-Dataset
+- Dataset
    ↓
-Google BigQuery
+- Google BigQuery
    ↓
-BigQuery ML Model
+- BigQuery ML Model
    ↓
-Prediction Results
+- Prediction Results
    ↓
-Cloud Application
+- Cloud Application
    ↓
 Prediction Output
 ### Cloud Approach

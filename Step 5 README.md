@@ -65,4 +65,4 @@ Create a machine learning model in BigQuery, using the Cardiovascular Disease Da
 
 ### Video
 Panopto Recording:
-https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f559ba4e-5acb-475f-8e9d-b40e00bc42da
+https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e335433-c653-4609-929b-b40e00c9efa7

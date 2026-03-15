@@ -25,6 +25,17 @@ The patient health indicators from the Cardiovascular Disease dataset dervied fr
 - Cloud Application
 - Prediction Output
 
+Dataset
+   ↓
+Google BigQuery
+   ↓
+BigQuery ML Model
+   ↓
+Prediction Results
+   ↓
+Cloud Application
+   ↓
+Prediction Output
 ### Cloud Approach
 This project will use the PaaS approach as it allows the application to run on a managed infrastructre without maintaing a server. 
 #### Advantages and Disadvantages of PaaS

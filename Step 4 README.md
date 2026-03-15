@@ -18,3 +18,4 @@ After uploading, run the following SQL Query to ensure data was successfully upl
 The query will return samples rows if uploaded successfully
 
 ### Video
+Panopto Recording:

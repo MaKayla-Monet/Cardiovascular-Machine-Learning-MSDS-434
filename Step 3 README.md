@@ -28,7 +28,7 @@ The patient health indicators from the Cardiovascular Disease dataset dervied fr
 ### Cloud Approach
 This project will use the PaaS approach as it allows the application to run on a managed infrastructre without maintaing a server. 
 #### Advantages and Disadvantages of PaaS
-- | Advantages | Disadvantages |
+| Advantages | Disadvantages |
 |------------|--------------|
 | Reduces the need to manage servers and infrastructure. | The system depends on the cloud provider’s platform and services. |
 | Allows the application to scale automatically as data grows. | Less control over the underlying infrastructure compared to managing servers directly. |

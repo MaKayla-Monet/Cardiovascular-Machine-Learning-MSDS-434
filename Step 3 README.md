@@ -31,7 +31,7 @@ This project will use the PaaS approach as it allows the application to run on a
 #### Advantages and Disadvantages of PaaS
 | Advantages | Disadvantages |
 |------------|--------------|
-| Reduces the need to manage servers and infrastructure. | The system depends on the cloud provider’s platform and services. |
+| Simplifies development and deployment of the analytics application. | The system depends on the cloud provider’s platform and services. |
 | Allows the application to scale automatically as data grows. | Less control over the underlying infrastructure compared to managing servers directly. |
 | Provides built-in tools for data storage, analytics, and machine learning. | Some customization options may be limited depending on the cloud service. |
-| Simplifies development and deployment of the analytics application. | Cloud usage may result in additional costs depending on resource usage. |
+| | Cloud usage may result in additional costs depending on resource usage. |

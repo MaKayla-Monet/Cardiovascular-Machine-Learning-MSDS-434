@@ -35,3 +35,7 @@ This project will use the PaaS approach as it allows the application to run on a
 | Allows the application to scale automatically as data grows. | Less control over the underlying infrastructure compared to managing servers directly. |
 | Provides built-in tools for data storage, analytics, and machine learning. | Some customization options may be limited depending on the cloud service. |
 |  | Cloud usage may result in additional costs depending on resource usage. |
+
+### Video
+Panopto Recording:
+https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76d6f916-5ddd-4cf9-a138-b40e00234aab

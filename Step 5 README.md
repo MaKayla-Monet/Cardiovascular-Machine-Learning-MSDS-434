@@ -21,6 +21,7 @@ Create a machine learning model in BigQuery, using the Cardiovascular Disease Da
 
 ### Model Creation
 
+#### Model
 ```CREATE MODEL `instant-audio-484001-mls.cardiovascular_project.cardio_model`
 OPTIONS(
   model_type='logistic_reg',
@@ -40,6 +41,25 @@ alco,
 active,
 cardio
 FROM `instant-audio-484001-mls.cardiovascular_project.cardiovascular_table`;```
+
+#### Evaluate
+
+    ```SELECT *
+        FROM ML.EVALUATE(
+        MODEL `instant-audio-484001-m5.cardiovascular_project.cardio_model`
+        );```
+
+#### Predict
+
+        ```SELECT *
+              FROM ML.PREDICT(
+              MODEL `instant-audio-484001-m5.cardiovascular_project.cardio_model`,
+              (
+              SELECT *
+              FROM `instant-audio-484001-m5.cardiovascular_project.cardiovascular_table`
+              LIMIT 10
+              )
+              );```
 
 ### Video
 Panopto Recording:

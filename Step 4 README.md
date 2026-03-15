@@ -12,11 +12,10 @@ For this step, the Cardiovascular Disease dataset will be ingested into BigQuery
 After uploading, run the following SQL Query to ensure data was successfully uploaded:
      
         ```sql
-            SELECT *
-            FROM cardiovascular_dataset
-            LIMIT 10;```
+            SELECT * FROM `instant-audio-484001-m5.cardiovascular_project.cardiovascular_table` LIMIT 10```
 
 The query will return samples rows if uploaded successfully
 
 ### Video
 Panopto Recording:
+https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=016f2b3a-cc69-4597-a66b-b40e009b43c6

@@ -10,10 +10,10 @@ For this step, the Cardiovascular Disease dataset will be ingested into BigQuery
 
 ### Data Ingest Verification
 - After uploading, run the following SQL Query to ensure data was successfully uploaded:
-   -     ```sql
-   -   SELECT *
-   -   FROM cardiovascular_dataset
-   -   LIMIT 10;
+     ```sql
+     SELECT *
+     FROM cardiovascular_dataset
+     LIMIT 10;'''
 
 The query will return samples rows if uploaded successfully
 

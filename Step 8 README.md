@@ -1,7 +1,7 @@
 ## Step 8 - Implement Containerized Application
 
 ### Objective
-Containerize the cardiovascular prediction microservice using Docker to demonstrate tha it can be deployed
+Containerize the cardiovascular prediction microservice using Docker to demonstrate that it can be deployed
 
 ### Containerization Approach 
 

@@ -21,13 +21,19 @@ jobs:
 
       - name: Install dependencies
         run: |
+          cd cardio-microservice
           pip install -r requirements.txt
 
       - name: Verify app file exists
         run: |
+          cd cardio-microservice
           test -f app.py
 
       - name: Build Docker image
+        run: |
+          cd cardio-microservice
+          docker build -t cardio-api .
+
         run: |
           docker build -t cardio-api .
           cd cardio-microservice

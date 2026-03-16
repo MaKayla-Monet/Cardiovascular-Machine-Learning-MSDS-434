@@ -20,7 +20,7 @@ Implement a predictive machine learning model that will identify potentoal cardi
 - cholesterol  
 - gluc (glucose)  
 - smoke  
-- alco (alcohol consumption)  
+- alco (alcohol)  
 - active  
 - cardio: indicator of cardiovascular disease
 

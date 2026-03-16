@@ -65,6 +65,6 @@ Deploy a microservice application that demonstrates how a predictive cardiovascu
   "prediction":1,"risk_score":3}
 
 ### Video
-Panopto Recording: 
+Panopto Recording:https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4ca5ec6-15e3-4b69-a28f-b40f00149b90
 
 

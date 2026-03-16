@@ -49,5 +49,5 @@ Containerize the cardiovascular prediction microservice using Docker to demonstr
 "prediction":1,"risk_score":3
 
 ### Video
-Panopto Recording
+Panopto Recording:https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54ec5ce7-a295-4eed-abf1-b40f001bd852
 

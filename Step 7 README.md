@@ -17,7 +17,8 @@ Deploy a microservice application that demonstrates how a predictive cardiovascu
 
 #### App.py
 
- ```from flask import Flask, request, jsonify
+ ```
+    from flask import Flask, request, jsonify
     
     app = Flask(__name__)
     

@@ -14,7 +14,8 @@ Containerize the cardiovascular prediction microservice using Docker to demonstr
 
 ### Dockerfile 
 
- ``` FROM python:3.10
+ ```
+      FROM python:3.10
 
       WORKDIR /app
       

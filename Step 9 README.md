@@ -11,4 +11,4 @@ Create a custom montioring dashboard using Google Cloud Monitoring to track syst
 - Add CPU Utilization and Network Traffic metrics
 
 ### Video
-Panopto Recording: 
+Panopto Recording:https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96228879-ae60-46d0-9fb5-b40f002e25ec

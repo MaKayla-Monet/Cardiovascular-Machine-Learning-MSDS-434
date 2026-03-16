@@ -80,4 +80,4 @@ Implement a predictive machine learning model that will identify potentoal cardi
     ))```
 
 ### Video
-Panopto Recording: 
+Panopto Recording:https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b52eb26-a1c1-4cc4-8a82-b40f00118e64
